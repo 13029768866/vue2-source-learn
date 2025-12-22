@@ -76,6 +76,10 @@
 
 **1、兰博、猴子、狐狸可以相信**
 
+![](C:\Users\木剑游侠灬温\Desktop\LPL\2025-12-22 BLG-LNG（2）.png)
+
+![](C:\Users\木剑游侠灬温\Desktop\LPL\2025-12-22 BLG-LNG（1）.png)
+
 ![](C:\Users\木剑游侠灬温\Desktop\LPL\2025-12-17 LNG-WE（3）.png)
 
 ![](C:\Users\木剑游侠灬温\Desktop\LPL\2025-12-17 LNG-WE（2）.png)
@@ -118,6 +122,10 @@
 
 ## Tips
 
+![](C:\Users\木剑游侠灬温\Desktop\LPL\2025-12-21 WE-NIP（2）.png)
+
+![](C:\Users\木剑游侠灬温\Desktop\LPL\2025-12-21 WE-NIP（1）.png)
+
 ![](C:\Users\木剑游侠灬温\Desktop\LPL\2025-12-18 UP-WE（3）.png)
 
 ![](C:\Users\木剑游侠灬温\Desktop\LPL\2025-12-18 UP-WE（2）.png)
@@ -158,19 +166,21 @@
 
 # WBG
 
-| 位置             | 英雄池                 | 绝活 |
-| ---------------- | ---------------------- | ---- |
-| 上单：Zika（）   | 亚恒（2）、塞恩、      |      |
-| 打野：JieJie（） | 石头人、巨魔、杰斯、   |      |
-| 中单：小虎（）   | 发条（2）、梅尔、      |      |
-| ADC：ELK（）     | 卡莎、维鲁斯、芸阿娜、 |      |
-| 辅助：ErHa（）   | 瑞尔、波比、妮蔻、     |      |
+| 位置             | 英雄池                              | 绝活 |
+| ---------------- | ----------------------------------- | ---- |
+| 上单：Zika（）   | 亚恒（3）、塞恩、老黑、             |      |
+| 打野：JieJie（） | 石头人、巨魔、杰斯、琪亚娜、狼母、  |      |
+| 中单：小虎（）   | 发条（2）、梅尔、辛德拉、瑞兹、     |      |
+| ADC：ELK（）     | 卡莎、维鲁斯、芸阿娜（2）、轮子妈、 |      |
+| 辅助：ErHa（）   | 瑞尔、波比、妮蔻、牛头、泰坦、      |      |
 
 ## Tips
 
 1. **5杀以前打的一般，中期运营特别好，10杀加号可以相信**
 
-·![](C:\Users\木剑游侠灬温\Desktop\LPL\2025-12-19 WBG-JDG（3）.png)
+![](C:\Users\木剑游侠灬温\Desktop\LPL\2025-12-20 OMG-WBG（2）.png)
+
+![](C:\Users\木剑游侠灬温\Desktop\LPL\2025-12-20 OMG-WBG（1）.png)![](C:\Users\木剑游侠灬温\Desktop\LPL\2025-12-19 WBG-JDG（3）.png)
 
 ![](C:\Users\木剑游侠灬温\Desktop\LPL\2025-12-19 WBG-JDG（2）.png)
 
@@ -189,7 +199,8 @@
 ## Tips
 
 1. **不放兰博、发条**
-2. 
+
+![](C:\Users\木剑游侠灬温\Desktop\LPL\2025-12-22 JDG-OMG（1）.png)
 
 ![](C:\Users\木剑游侠灬温\Desktop\LPL\2025-12-20 OMG-WBG（2）.png)
 
@@ -290,3 +301,25 @@
 | 中单：Angel（）   | 发条、岩雀、   |      |
 | ADC：Leave（）    | 芸阿娜、飞机、 |      |
 | 辅助：Parukia（） | 机器人、瑞尔、 |      |
+
+# IG
+
+## TIPS
+
+**1、必ban发条，中单优先级岩雀最高**
+
+![](C:\Users\木剑游侠灬温\Desktop\LPL\2025-12-22 IG-LGD（2）.png)
+
+![](C:\Users\木剑游侠灬温\Desktop\LPL\2025-12-22 IG-LGD（1）.png)
+
+![](C:\Users\木剑游侠灬温\Desktop\LPL\2025-12-20 EDG-IG（2）.png)
+
+![](C:\Users\木剑游侠灬温\Desktop\LPL\2025-12-20 EDG-IG（1）.png)
+
+# BLG
+
+## Tips
+
+![](C:\Users\木剑游侠灬温\Desktop\LPL\2025-12-22 BLG-LNG（2）.png)
+
+![](C:\Users\木剑游侠灬温\Desktop\LPL\2025-12-22 BLG-LNG（1）.png)
